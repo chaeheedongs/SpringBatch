@@ -5,9 +5,6 @@
 
 
 ## Index
-
----
-
 * [Scheduled Batch](#Scheduled-Batch)
 * [Annotation Options](#Annotation-Options)
 
